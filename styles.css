@@ -6,3 +6,7 @@
 .column {
   border: 25px inset black
 }
+
+.is-child{
+  color: blueviolet;
+}
