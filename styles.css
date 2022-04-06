@@ -4,9 +4,9 @@
 }
 
 .column {
-  border: 25px inset black
+  border: 25px inset black;
 }
 
 .is-child{
-  color: blueviolet;
+  background-color:  blueviolet;
 }
